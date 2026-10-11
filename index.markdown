@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<figure>
+<figure style="text-align: center;">
   <img
     src="{{ '/assets/images/antigua-and-barbuda-flag.jpg' | relative_url }}"
     alt="Historical picture of Antigua and Barbuda"
