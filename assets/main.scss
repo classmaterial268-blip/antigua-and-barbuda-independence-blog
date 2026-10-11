@@ -1,0 +1,147 @@
+---
+---
+
+@import "minima";
+
+/* Antigua and Barbuda Independence Blog */
+
+body {
+  background-color: #ffffff;
+  color: #1a2b4c;
+  font-family: "Trebuchet MS", sans-serif;
+  line-height: 1.7;
+}
+
+/* Header */
+.site-header {
+  background-color: #003c71;
+  border-bottom: 4px solid #ffd700;
+}
+
+.site-title,
+.site-header a {
+  color: #ffffff !important;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site-title:hover,
+.site-header a:hover,
+.site-nav a:hover {
+  color: #ffd700 !important;
+}
+
+/* Main content */
+.page-content {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.page-heading,
+.post-title,
+.post-content h2,
+.post-content h3 {
+  color: #003c71;
+}
+
+/* Post cards on the homepage */
+.post-list {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.post-list li {
+  background-color: #f8f9fa;
+  border: 1px solid #ffd700;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  list-style: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+}
+
+.post-link {
+  color: #003c71 !important;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.post-link:hover {
+  color: #d4af37 !important;
+}
+
+/* Links */
+a {
+  color: #003c71;
+}
+
+a:hover {
+  color: #d4af37;
+}
+
+/* Article images */
+.post-content img,
+.page-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 8px;
+}
+
+/* Historical fact box */
+.fact-box {
+  background-color: #f8f9fa;
+  border-left: 5px solid #ffd700;
+  border-radius: 6px;
+  padding: 18px 22px;
+  margin: 25px 0;
+  color: #1a2b4c;
+}
+
+.fact-box strong {
+  display: block;
+  color: #003c71;
+  font-size: 1.15em;
+  margin-bottom: 8px;
+}
+
+.fact-box p {
+  margin-bottom: 0;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #003c71;
+  border-top: 4px solid #ffd700;
+  color: #ffffff;
+}
+
+.site-footer,
+.site-footer .footer-col-wrapper,
+.site-footer p {
+  color: #ffffff;
+}
+
+.site-footer a {
+  color: #ffd700;
+}
+
+.site-footer a:hover {
+  color: #ffffff;
+}
+
+/* Mobile display */
+@media screen and (max-width: 600px) {
+  .site-title {
+    font-size: 20px;
+  }
+
+  .post-list li {
+    padding: 15px;
+  }
+
+  .post-link {
+    font-size: 1.2em;
+  }
+}
