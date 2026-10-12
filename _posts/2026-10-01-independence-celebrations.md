@@ -31,27 +31,15 @@ What does independence sound like? In Antigua and Barbuda, it can be heard in ca
 As the national colors fill the streets, Independence becomes more than a date on the calendar. It becomes music, movement, food, memory, and pride.
 
 
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+<img src="{{ '/assets/images/school-parade-performance.jpg' | relative_url }}"
+     alt="School parade performance"
+     style="width: 100%;">
 
-  <figure style="margin: 0; width: 45%;">
-    <img src="/assets/images/school-parade-performance.jpg" alt="School parade performance" style="width: 100%;">
-    <figcaption>
-      Students bring history to life through vibrant parade performances.  
-      Image credit: Joanne C. Hillhouse, <a href="https://wadadlipen.wordpress.com/tag/antigua-and-barbuda-independence/">Wadadli Pen</a>.
-    </figcaption>
-  </figure>
-
-  <figure style="margin: 0; width: 45%;">
-    <img src="/assets/images/school-independence-panorama.jpg" alt="School Independence Panorama" style="width: 100%;">
-    <figcaption>
-      Young musicians keep the rhythm of the islands alive during Panorama.
-    </figcaption>
-  </figure>
-</div>
+<img src="{{ '/assets/images/school-independence-panorama.jpg' | relative_url }}"
+     alt="Students performing at Independence Panorama"
+     style="width: 100%;">
 
   
-
-
 
 Music gives the celebration its energy, while food brings families and communities together. Calypso, soca, reggae, steelpan, and other Caribbean traditions connect historical memory with modern island life, and dishes such as saltfish and fungi, pepperpot, seafood, rice, peas, and plantains help preserve traditions passed down through generations.
 
