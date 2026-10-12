@@ -33,11 +33,11 @@ As the national colors fill the streets, Independence becomes more than a date o
 
 <img src="{{ '/assets/images/school-parade-performance.jpg' | relative_url }}"
      alt="School parade performance"
-     style="width: 100%;">
+     style="width: 50%;">
 
 <img src="{{ '/assets/images/school-independence-panorama.jpg' | relative_url }}"
      alt="Students performing at Independence Panorama"
-     style="width: 100%;">
+     style="width: 50%;">
 
   
 
